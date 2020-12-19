@@ -1,0 +1,23 @@
+{
+  "name": "dom-testing-library-issue-851",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricedb/dom-testing-library-issue-851.git"
+  },
+  "keywords": [],
+  "author": "Maurice de Beijer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauricedb/dom-testing-library-issue-851/issues"
+  },
+  "homepage": "https://github.com/mauricedb/dom-testing-library-issue-851#readme",
+  "dependencies": {
+    "cypress": "^6.1.0"
+  }
+}
