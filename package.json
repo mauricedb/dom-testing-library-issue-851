@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mauricedb/dom-testing-library-issue-851#readme",
   "dependencies": {
+    "@testing-library/cypress": "^7.0.3",
     "cypress": "^6.1.0"
   }
 }
